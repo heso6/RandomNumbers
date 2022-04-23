@@ -21,8 +21,6 @@ public class ReversLoop {
             System.out.println(number);
         }
 
-        int gitHubTest = 34;
-
     }
 }
 
